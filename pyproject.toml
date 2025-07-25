@@ -22,6 +22,7 @@ dependencies = [
     "scikit-learn",
     "imbalanced-learn",
     "category_encoders",
+    "yellowbrick",
 ]
 
 [build-system]
